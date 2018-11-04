@@ -10,7 +10,7 @@
     --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
     /*shadow for all the boxes*/
 }
-Thank you Vic that means a lot:weary:! Yea been doing a lot of stuff differently lately for the first time in while html {
+html {
     box-sizing: border-box;
     /*width of elements unaffected from using padding etc*/
     font-family: sans-serif;
